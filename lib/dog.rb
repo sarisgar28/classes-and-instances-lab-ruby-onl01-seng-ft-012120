@@ -1,4 +1,4 @@
-def Dog_Class(name)
+def Dog_Class
 def dog.new = "fido","snoopy","lassie"
 
 def Dog_class=(name)
