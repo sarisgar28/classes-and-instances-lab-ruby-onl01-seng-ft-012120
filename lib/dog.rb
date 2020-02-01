@@ -1,4 +1,4 @@
- Class_Dog 
+ def Class_Dog 
 
 
 end 
