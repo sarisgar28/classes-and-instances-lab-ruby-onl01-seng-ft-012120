@@ -1,9 +1,9 @@
 def Dog_Class(name)
-def dog.new = {"fido","snoopy","lassie"}
-end 
+def dog.new = "fido","snoopy","lassie"
 
 def Dog_class=(name)
-@fido= [Dog.new] 
-@snoopy= [Dog.new]
-@assie = [Dog.new]
+fido.new= [Dog.new] 
+snoopy.new= [Dog.new]
+assie.new = [Dog.new]
 end 
+ end 
