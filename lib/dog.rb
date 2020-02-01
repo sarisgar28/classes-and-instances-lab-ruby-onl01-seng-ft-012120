@@ -1,7 +1,6 @@
-def Dog_Class
-def dog.new = "fido","snoopy","lassie"
-
-def Dog_class=(name)
+ def class_Dog 
+   puts dog.new = {"fido","snoopy","lassie"}
+def class_Dog
 fido.new= [Dog.new] 
 snoopy.new= [Dog.new]
 assie.new = [Dog.new]
