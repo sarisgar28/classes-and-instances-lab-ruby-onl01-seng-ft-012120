@@ -1,4 +1,4 @@
- def class_Dog 
-   puts "fido","snoopy","lassie"
+ Class_Dog 
+
 
 end 
