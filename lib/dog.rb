@@ -1,4 +1,4 @@
  def class_Dog 
-   puts dog.new = {"fido","snoopy","lassie"}
+   puts {"fido","snoopy","lassie"}
 
 end 
